@@ -9,4 +9,9 @@ public class Display {
         System.out.println("Message is displayed");
         System.out.println("Welcome to git vcs");
     }
+
+    public void anotherMessage()
+    {
+        System.out.println("THis message is for new learners. ");
+    }
 }
