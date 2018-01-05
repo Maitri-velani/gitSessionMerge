@@ -6,5 +6,9 @@ public class Main {
         FirstBranchClass fbc = new FirstBranchClass();
         fbc.firstMessage();
         fbc.secondMessage();
+        display.message();
+
+
+
     }
 }

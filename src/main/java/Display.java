@@ -9,4 +9,10 @@ public class Display {
         System.out.println("Version Control System.");
     }
 
+
+    public void message()
+    {
+        System.out.println("Message is displayed");
+        System.out.println("Welcome to git vcs");
+    }
 }
